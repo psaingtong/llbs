@@ -1,0 +1,4 @@
+source "/home/wt45/esp/esp-idf-422/components/app_update/Kconfig.projbuild"
+source "/home/wt45/esp/esp-idf-422/components/bootloader/Kconfig.projbuild"
+source "/home/wt45/esp/esp-idf-422/components/esptool_py/Kconfig.projbuild"
+source "/home/wt45/esp/esp-idf-422/components/partition_table/Kconfig.projbuild"
